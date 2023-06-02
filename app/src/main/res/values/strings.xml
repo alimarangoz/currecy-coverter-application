@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+
+    <string-array name="currencies">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Dinar</item>
+        <item>RUMEN LEYİ</item>
+        <item>AVUSTRALYA DOLARI</item>
+        <item>DANİMARKA KRONU</item>
+        <item>İNGİLİZ STERLİNİ</item>
+        <item>İSVİÇRE FRANGI</item>
+        <item>İSVEÇ KRONU</item>
+        <item>KANADA DOLARI</item>
+        <item>NORVEÇ KRONU</item>
+        <item>SUUDİ ARABİSTAN RİYALİ</item>
+        <item>JAPON YENİ</item>
+        <item>BULGAR LEVASI</item>
+        <item>RUS RUBLESİ</item>
+        <item>İRAN RİYALİ</item>
+        <item>ÇİN YUANI</item>
+        <item>PAKİSTAN RUPİSİ</item>
+        <item>KATAR RİYALİ</item>
+        <item>GÜNEY KORE WONU</item>
+        <item>AZERBAYCAN YENİ MANATI</item>
+        <item>BİRLEŞİK ARAP EMİRLİKLERİ DİRHEMİ</item>
+    </string-array>
+</resources>
